@@ -1,1 +1,1 @@
-solutions for c programming variables if else and while
+variables if else and while of c programming
